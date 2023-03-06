@@ -1,1 +1,1 @@
-## CDK Lambda Deployment Group Examples
+## CDK Lambda Deployment Group Example
